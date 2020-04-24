@@ -1,0 +1,9 @@
+# dist_file_name: fill with the prefer file name of generated file
+dist_file_name: A_DUMMY_FILE_NAME
+# dist_path: will generate the file in this path
+dist_path: /home/wwwroot/3DCEList
+# node_list: fill with your multiple node links (one per line with prefix ' - ')
+node_list:
+ - vm***://***************************
+ - s**://******************************
+ - s*://*******************************
